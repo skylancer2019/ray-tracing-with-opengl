@@ -8,4 +8,12 @@ Visual Studio nupengl core
 ## 实现效果
 无光源情况：
 
+![image](https://github.com/skylancer2019/ray-tracing-with-opengl/blob/main/pic/nolight1.png)
+
+![image](https://github.com/skylancer2019/ray-tracing-with-opengl/blob/main/pic/nolight2.png)
+
 有光源情况：
+
+![image](https://github.com/skylancer2019/ray-tracing-with-opengl/blob/main/pic/light1.png)
+
+![image](https://github.com/skylancer2019/ray-tracing-with-opengl/blob/main/pic/light2.png)
