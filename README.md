@@ -16,4 +16,4 @@ Visual Studio nupengl core
 
 ![image](https://github.com/skylancer2019/ray-tracing-with-opengl/blob/main/pic/light1.png)
 
-![image](https://github.com/skylancer2019/ray-tracing-with-opengl/blob/main/pic/light2.png)
+![image](https://github.com/skylancer2019/ray-tracing-with-opengl/blob/main/pic/ligh2.png)
